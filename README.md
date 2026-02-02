@@ -1,4 +1,4 @@
-# <p align="center">Hi  there!, I'm Niranj 👋</p>
+# <p align="center"> Hi there!,I'm Niranj 👋 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=NIRANJ%20MAHESWAR&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=557CF2" width="100%" />
@@ -13,11 +13,7 @@
 ### 📊 Tactical Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranj-coder&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranj-coder&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
@@ -46,12 +42,17 @@
 
 ### 📫 Secure Connection
 <p align="center">
-<a href="https://instagram.com/_niranj_maheswar_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:niranjmaheswar0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/_niranj_maheswar_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Niranj-coder&label=System%20Accesses&color=557CF2&style=flat-square" />
 </p>
+
 
 
