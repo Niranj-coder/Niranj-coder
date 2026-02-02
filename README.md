@@ -12,17 +12,15 @@
 
 ### 📊 Tactical Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranj-coder&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranj-coder&theme=tokyonight&hide_border=true" height="150" alt="Streak" />
 </p>
 
 ---
 
 ### 🛡️ Arsenal (Tools & Technologies)
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kali,linux,git,github,vscode,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,kali,linux,git,github,vscode,mysql" />
 </p>
 
 <p align="center">
@@ -34,7 +32,7 @@
 
 ### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
 </p>
 
 ---
@@ -47,8 +45,4 @@
 <a href="https://instagram.com/_niranj_maheswar_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niranj-coder&label=System%20Accesses&color=557CF2&style=flat-square" />
 </p>
