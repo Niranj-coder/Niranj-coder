@@ -5,16 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=557CF2&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Learning+Python;Termux+Automation;Future+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=557CF2&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Learning+Python;Termux+Automation;Future+Security+Researcher" />
 </p>
 
 ---
 
 ### 📊 Tactical Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranj-coder&theme=tokyonight&hide_border=true" height="150" alt="Streak" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niranj-coder&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -31,9 +29,7 @@
 ---
 
 ### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
-</p>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
