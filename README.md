@@ -1,4 +1,4 @@
-# <p align="center">Hi there!, I'm Niranj 👋</p>
+# <p align="center">Hi  there!, I'm Niranj 👋</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=NIRANJ%20MAHESWAR&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=557CF2" width="100%" />
