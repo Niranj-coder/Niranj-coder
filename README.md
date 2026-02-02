@@ -1,18 +1,12 @@
 # <p align="center"> Hi there!, I'm Niranj 👋 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=NIRANJ%20MAHESWAR&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=557CF2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=NIRANJ%20MAHESWAR&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=557CF2" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=557CF2&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Learning+Python;Termux+Automation;Future+Security+Researcher" />
 </p>
-
----
-
-### 📊 Tactical Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niranj-coder&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -28,11 +22,6 @@
 
 ---
 
-### 📈 Most Used Languages
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Secure Connection
 <p align="center">
 <a href="mailto:niranjmaheswar0@gmail.com">
@@ -41,4 +30,8 @@
 <a href="https://instagram.com/_niranj_maheswar_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Niranj-coder&label=System%20Accesses&color=557CF2&style=flat-square" />
 </p>
