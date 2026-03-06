@@ -14,14 +14,13 @@ I love figuring out how things work under the hood and discovering new things as
 - **Learning & Growing:** Always experimenting with new ideas.
 
 ---
-
 ## 📊 My GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
 </p>
 
@@ -35,7 +34,3 @@ I love figuring out how things work under the hood and discovering new things as
 
 ---
 
-<p align="center">
-Building things, breaking them on purpose to understand them,  
-and learning something new every day.
-</p>
