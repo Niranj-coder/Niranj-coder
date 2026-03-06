@@ -14,21 +14,18 @@ I love figuring out how things work under the hood and finding more things as I 
 
 ---
 
-### 📊 Stats
+### 📊 My GitHub Stats
 <div align="center">
   
-  ![Niranj's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
+  ![Niranj's Stats](https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight)
 
 </div>
 
----
-
-###  Featured Projects
-* **[DedSec Project](https://github.com/dedsec1121fk/DedSec):** 
 
 ---
+
 
 ### 📬 Let's Connect
 * **Email:** niranjmaheswar0@gmail.com
