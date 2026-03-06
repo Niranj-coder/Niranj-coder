@@ -16,10 +16,10 @@ I love figuring out how things work under the hood and finding more things as I 
 
 ### 📊 My GitHub Stats
 <div align="center">
-  
-  ![Niranj's Stats](https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight)
+
+![Niranj's Stats](https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight)
 
 </div>
 
