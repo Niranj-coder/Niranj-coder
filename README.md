@@ -2,31 +2,40 @@
 
 **Aspiring Security Researcher | Malware Analysis & Labs**
 
-I love figuring out how things work under the hood and finding more things as I go!
+I love figuring out how things work under the hood and discovering new things as I go!
 
 ---
 
-### 🛡️ What I'm Working On
-* **Security Research:** I’m learning how cyber security works.
-* **Hands-on Labs:** I mainly use Termux for my projects.
-* **Automation:** Most of my projects are focused on automation.
-* **Learning & Growing:** I’m constantly testing new ideas!
+## 🛡️ What I'm Working On
+
+- **Security Research:** Learning how cybersecurity systems work.
+- **Hands-on Labs:** Most of my experiments are done in Termux.
+- **Automation:** Building small tools to automate tasks.
+- **Learning & Growing:** Always experimenting with new ideas.
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
+## 📊 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true" alt="Niranj's Stats" />
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Niranj-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranj-coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
 
 ---
 
-### 📬 Let's Connect
-* **Email:** niranjmaheswar0@gmail.com
-* **LinkedIn:** [Click here for LinkedIn](https://www.linkedin.com/in/niranj-maheswar-0949883b3)
-* **Insta:** [Click here for Instagram](https://www.instagram.com/_niranj_maheswar_)
+## 📬 Let's Connect
 
+- **Email:** niranjmaheswar0@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/niranj-maheswar-0949883b3  
+- **Instagram:** https://www.instagram.com/_niranj_maheswar_
+
+---
+
+<p align="center">
+Building things, breaking them on purpose to understand them,  
+and learning something new every day.
+</p>
