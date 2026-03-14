@@ -38,5 +38,5 @@ I love figuring out how things work under the hood and discovering new things as
 
 https://niranj-coder-github-io.vercel.app/
 
--More info about tools and guides are available on the web..
+- **More info about tools and guides are available on the web..
 
