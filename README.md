@@ -34,7 +34,7 @@ I love figuring out how things work under the hood and discovering new things as
 
 ---
 
-## Website 
+## 🌐 Website 
 
 https://niranj-coder-github-io.vercel.app/
 
